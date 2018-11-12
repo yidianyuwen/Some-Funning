@@ -1,0 +1,86 @@
+1. 33-js-concepts
+https://github.com/leonardomso/33-js-concepts Star 14690
+
+每个 JavaScript工程师都应懂的 33个概念,帮助开发者掌握 JavaScript相关的概念。
+
+
+2. 30-seconds-of-code
+https://github.com/30-seconds/30-seconds-of-code Star 31415
+
+这个项目里精心收集了大量有用的JavaScript代码片段文章，让你能够在极短的时间内可以理解使用它们，分为日期、节点、功能模块等部分，你可以直接将文件的这些代码直接导入到你的的文本编辑器（VSCode，Atom，Sublime）
+
+
+3. carlo
+https://github.com/GoogleChromeLabs/carlo Star 5124
+
+Carlo为Node程序提供了由Google Chrome浏览器提供支持的丰富渲染功能。Carlo通过Puppeteer项目与本地安装的浏览器进行连接。Carlo还为Node和浏览器之间的通信提供远程呼叫等基础功能。
+
+
+4. awesome-vscode
+https://github.com/viatsko/awesome-vscode Star 12158
+
+VS Code包和资源的精选列表。 
+
+
+5. omi
+https://github.com/Tencent/omi Star 5070
+
+Omi 是一款用于创建用户界面的组件化框架，开放并且现代，由腾讯开源，仅有7kb，局部 CSS，HTML+ Scoped CSS + JS 组成可复用的组件。不用担心组件的 CSS 会污染组件外的，Omi会帮你处理好一切
+
+
+6. vue
+https://github.com/vuejs/vue Star 118330
+
+Vue.js 是构建 Web 界面的 JavaScript 库，提供数据驱动的组件，还有简单灵活的 API，使得 MVVM 更简单。主要特性：
+
+● 可扩展的数据绑定
+
+● 将普通的 JS 对象作为 model
+
+● 简洁明了的 API
+
+● 组件化 UI 构建
+
+● 配合别的库使用
+
+
+7. react
+https://github.com/facebook/react Star 114909
+
+React是Facebook开发的用于构建用户界面的JavaScript库，现已为很多公司所用，因为它采用了一种不同的方式来构建应用：借助于React，开发者可以将应用分解为彼此解耦的独立组件，这样就可以独立维护并迭代各种组件了。
+
+8. freeCodeCamp
+https://github.com/freeCodeCamp/freeCodeCamp Star 296206
+
+freeCodeCamp.org是一个友好的社区，你可以通过它免费学习编程，里面的Web开发课程完全免费而且可以自定义课程进度，同时还有许多编程互动挑战来帮助你提升编程能力。
+
+
+9. evergreen
+https://github.com/segmentio/evergreen Star 6187
+
+evergreen是一个开源的React UI框架，具有以下特性：
+
+● 开箱即用
+
+● 灵活可组合。Evergreen组件构建在React UI Primitive之上，具有无限的可组合性。
+
+● 企业级，为企业级Web应用程序提供UI设计帮助
+
+
+10. percollate
+https://github.com/danburzo/percollate Star 2563
+
+Percollate是一个命令行工具，可将网页转换为格式精美的PDF。
+
+
+11. create-react-app
+https://github.com/facebook/create-react-app Star 58812
+
+开发 react 应用的脚手架，安装十分方便，只需要一条命令，适用于macOS，Windows和Linux。
+
+
+12. telescope
+https://github.com/laravel/telescope Star 2123
+
+telescope是一个优雅的应用调试工具，Telescope可深入了解进入应用程序的请求，异常，日志，数据库查询，邮件，通知，缓存操作，计划任务，变量转储等。
+
